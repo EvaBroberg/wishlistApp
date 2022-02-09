@@ -1,6 +1,6 @@
 # FReMP Stack (Flask, ReactJS, MongoDB, Python)
 
-Client: ReactJS
+Client: ReactJS<br/>
 Rest API: Python, Flask
 Server: MongoDB
 
